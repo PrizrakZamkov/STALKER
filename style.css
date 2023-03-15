@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    min-width: 100vw;
+    min-height: 100vh;
+    display: flex;
+}
+#canvas{
+    background-image: url('map.png');
+    background-repeat: no-repeat;
+    width: 2000px;
+    height: 1500px;
+}
